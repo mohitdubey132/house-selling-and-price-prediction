@@ -12,4 +12,4 @@
 ## GOALS
    1.   Our goal is to make easy for house buyers to contect to Broker.
    2.   customers can select there future home a at a place where multiple Brokers represnting then.
-   3.   Or get estimation for there dream house
+   3.   Or get estimation price for there dream house
