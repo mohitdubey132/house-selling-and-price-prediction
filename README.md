@@ -6,7 +6,7 @@
        2.   CSS 3
        3.   JavaScript ES6
  2.  backend 
-       1.   {Flask}(https://www.youtube.com/watch?v=zdgYw-3tzfI&t=1160s)
+       1.   {Flask}.(https://www.youtube.com/watch?v=zdgYw-3tzfI&t=1160s)
        2.   python.3.10.5
        3.   pymongo
 ## GOALS
