@@ -1,11 +1,11 @@
 # house-selling-and-price-prediction
 
 ## Technologies used
-[] Front END
+  ###Front END
    1.HTML
    2.CSS 3
    3.JavaScript ES6
- []backend 
+ ###backend 
    1.Flask
    2.python.3.10.5
    3.pymongo
