@@ -1,7 +1,7 @@
 # house-selling-and-price-prediction
 
 ## Technologies used
- <u>Front END</u>
+ Front END
    1.HTML
    2.CSS 3
    3.JavaScript ES6
